@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "asset-require-hook": "^1.2.0",
-    "koa": "^2.11.0",
+    "koa": "^3.0.1",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "react": "^16.11.0",
